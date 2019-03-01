@@ -1,0 +1,48 @@
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Repository.dll.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\MetroFramework.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Model.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Twilio.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Model.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Model.dll.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Twilio.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Connections.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Connections.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Connections.csproj.CopyComplete
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Repository.dll.config
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Repository.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\MetroFramework.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Model.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Twilio.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Model.pdb
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Model.dll.config
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alan\Desktop\Aplikacja\Connections\bin\Debug\Twilio.xml
+C:\Users\Alan\Desktop\Aplikacja\Connections\obj\Debug\Connections.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Aplikacja\Connections\obj\Debug\Connections.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Aplikacja\Connections\obj\Debug\Connections.csproj.CopyComplete
+C:\Users\Alan\Desktop\Aplikacja\Connections\obj\Debug\Repository.dll
+C:\Users\Alan\Desktop\Aplikacja\Connections\obj\Debug\Repository.pdb

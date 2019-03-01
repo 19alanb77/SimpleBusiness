@@ -1,0 +1,102 @@
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\HelpDeskView.exe.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\HelpDeskView.exe
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\HelpDeskView.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\MetroFramework.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Model.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Twilio.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\AForge.Math.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Model.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Model.dll.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Repository.dll.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\AForge.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\AForge.Controls.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\AForge.Imaging.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\AForge.Video.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Twilio.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\bin\Debug\AForge.Math.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.DodajPracownika.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.DodajProdukt.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.DodajZadanie.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.Faktura.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.Main.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.Magazyn.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.MenuGlowne.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.Personel.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.Statystyka.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.SzczegolyFaktury.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.UsunProdukt.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.WedlugKategorii.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.ZleLogowanie.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.ZleStareHaslo.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\HelpDeskView.Properties.Resources.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.ZmianaHasla.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\MainApp.ZwiekszProdukt.resources
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\App.csproj.CopyComplete
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\HelpDeskView.exe
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\HurtowniaAG\obj\Debug\HelpDeskView.pdb
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\MetroFramework.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Model.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Repository.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Twilio.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\AForge.Math.dll
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Model.pdb
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Model.dll.config
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Repository.dll.config
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\AForge.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\AForge.Controls.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\AForge.Imaging.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\AForge.Video.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Twilio.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\AForge.Math.xml
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.DodajPracownika.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.DodajProdukt.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.DodajZadanie.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.Faktura.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.Main.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.Magazyn.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.MenuGlowne.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.Personel.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.Statystyka.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.SzczegolyFaktury.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.UsunProdukt.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.WedlugKategorii.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.ZleLogowanie.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.ZleStareHaslo.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.ZmianaHasla.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\MainApp.ZwiekszProdukt.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Aplikacja.exe.config
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Aplikacja.exe
+C:\Users\Alan\Desktop\Aplikacja\App\bin\Debug\Aplikacja.pdb
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\Aplikacja.exe
+C:\Users\Alan\Desktop\Aplikacja\App\obj\Debug\Aplikacja.pdb

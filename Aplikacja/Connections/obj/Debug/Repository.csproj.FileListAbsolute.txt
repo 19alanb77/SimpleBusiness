@@ -1,0 +1,92 @@
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\bin\Debug\Repository.dll
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\bin\Debug\Repository.pdb
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\bin\Debug\Dapper.dll
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\bin\Debug\Model.dll
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\bin\Debug\Model.pdb
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\bin\Debug\Dapper.xml
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\obj\Debug\Repository.dll
+c:\users\magda\documents\visual studio 2015\Projects\HelpDeskProject\Repository\obj\Debug\Repository.pdb
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\bin\Debug\Repository.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\bin\Debug\Repository.pdb
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\bin\Debug\Dapper.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\bin\Debug\Model.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\bin\Debug\Model.pdb
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\bin\Debug\Dapper.xml
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\obj\Debug\Repository.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3\HelpDeskProject\Repository\obj\Debug\Repository.pdb
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\bin\Debug\Repository.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\bin\Debug\Repository.pdb
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\bin\Debug\Dapper.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\bin\Debug\Model.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\bin\Debug\Model.pdb
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\bin\Debug\Dapper.xml
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\obj\Debug\Repository.dll
+C:\Users\Magda\Desktop\ProjektKompetencyjny\projekt3 — kopia (2)\HelpDeskProject\Repository\obj\Debug\Repository.pdb
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\bin\Debug\Repository.dll
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\bin\Debug\Repository.pdb
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\bin\Debug\Dapper.dll
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\bin\Debug\Model.dll
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\bin\Debug\Model.pdb
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\bin\Debug\Dapper.xml
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\obj\Debug\Repository.dll
+C:\Users\nastymajestic\Desktop\HelpDeskProject3\HelpDeskProject\Repository\obj\Debug\Repository.pdb
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Repository.dll
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Repository.pdb
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Dapper.dll
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Model.dll
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Model.pdb
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Dapper.xml
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.dll
+C:\Users\DOM\Desktop\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.pdb
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Repository.dll
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Repository.pdb
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Dapper.dll
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Model.dll
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Model.pdb
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\bin\Debug\Dapper.xml
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.dll
+C:\Users\DOM\Desktop\Studia\Semestr 6\net\HelpDeskProject_v0.99\HelpDeskProject4\HelpDeskProject4\HelpDeskProject\Repository\obj\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\bin\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\bin\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\bin\Debug\Model.dll
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\bin\Debug\Model.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\obj\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 6\net\Hurtownia\Repository\obj\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Model.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Model.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\obj\Debug\Repository.pdb
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Repository.dll.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Twilio.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Model.dll.config
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\Twilio.xml
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\MetroFramework.dll
+C:\Users\Alan\Desktop\Studia\Semestr 7\Praca\Hurtownia\Repository\bin\Debug\MetroFramework.Fonts.dll
